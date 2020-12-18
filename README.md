@@ -43,11 +43,31 @@ Not clear.
 ![](https://raw.githubusercontent.com/hooram/ownphotos/dev/screenshots/Screenshot_2018-11-27_15-01-49.png)
 
 - [Photato](https://github.com/trebonius0/Photato) - Self-hosted photo gallery, accessible through a responsive WebUI. Directly uses and indexes a specific folder in the filesystem. `AGPL-3.0` `Java`
+![](https://camo.githubusercontent.com/dfe869d0cb256e52c8b89c2914a6d5ea88cc921357dbebf6fb7b6ff258e5fef5/68747470733a2f2f692e696d6775722e636f6d2f58436a347559562e706e67)
+![](https://camo.githubusercontent.com/92f83c7a952b7ef149f02a8d4e3e09823d5a11e79d5458ea9de21773a8f39c11/68747470733a2f2f692e696d6775722e636f6d2f4c786a52626a492e706e67)
+
 - [Photofloat](http://blog.zx2c4.com/567) - Web 2.0 Photo Gallery Done Right via Static JSON and Dynamic Javascript. ([Demo](http://photos.jasondonenfeld.com/)) `GPL-2.0` `Python`
+![](https://git.zx2c4.com/PhotoFloat/about/screenshot.jpg)
+
 - [PhotoLight](https://github.com/thibaud-rohmer/PhotoLight) - The easiest photo gallery there is. `GPL-3.0` `PHP`
+No photos 
+
 - [Photonix](https://photonix.org/) - A new web-based photo management application with object recognition, location awareness, color analysis and other ML algorithms. ([Demo](https://demo.photonix.org/), [Source Code](https://github.com/damianmoore/photonix)) `AGPL-3.0` `Python`
+
+![](https://photonix.org/static/images/devices.jpg)
+
+
 - [PhotoPrism](https://photoprism.org) - Personal photo management powered by Go and Google TensorFlow.  Browse, organize, and share your personal photo collection, using the latest technologies to automatically tag and find pictures. ([Source Code](https://github.com/photoprism/photoprism)) `MIT` `Go`
+
+![](https://photoprism.app/user/pages/02.features/02._ui/ui.jpg)
+![](https://photoprism.app/user/pages/02.features/04._geocoding/places.jpg)
+![](https://photoprism.app/user/pages/02.features/07._metadata/chameleon.jpg)
+
+
 - [Photo Stream](https://github.com/maxvoltar/photo-stream) - Minimalist self-hosted photo stream. ([Demo](https://maxvoltar.photo/)) `MIT` `Ruby`
+![](https://repository-images.githubusercontent.com/244708193/8710f480-6010-11ea-9fd6-41bdaea7ab02)
+
+
 - [Photoview](https://github.com/viktorstrate/photoview) - A simple and user-friendly Photo Gallery for personal servers. It is made for photographers and aims to provide an easy and fast way to navigate directories, with thousands of high resolution photos. ([Demo](https://photos.qpqp.dk/)) `GPL-3.0` `Go`
 - [PiGallery 2](https://bpatrik.github.io/pigallery2/) - A directory-first photo gallery website, with a rich UI, optimised for running on low resource servers. ([Demo](https://pigallery2.herokuapp.com/), [Source Code](https://github.com/bpatrik/pigallery2)) `MIT` `Docker/Nodejs`
 - [Piwigo](http://piwigo.org/) - Photo gallery software for the web, built by an active community of users and developers. ([Demo](http://piwigo.org/demo/), [Source Code](https://github.com/Piwigo/Piwigo)) `GPL-2.0` `PHP`
