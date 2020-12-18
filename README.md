@@ -23,9 +23,25 @@ https://chevereto.com/app/themes/v3/img/screen-modal.jpg
 
 
 - [Gallery CSS](https://benschwarz.github.io/gallery-css/) - Gallery.css is all CSS. Think: Simple, maintainable and understandable galleries without the use of Javascript. ([Source Code](https://github.com/benschwarz/gallery-css)) `MIT` `CSS`
+No pictures.
+
 - [Lychee](https://lycheeorg.github.io/) - Open source grid and album based photo-management-system. ([Source Code](https://github.com/LycheeOrg/Lychee)) `MIT` `PHP`
+
+![](https://camo.githubusercontent.com/b9010f02c634219795950e034f511f4cf4af5c60/68747470733a2f2f732e656c6563746572696f75732e636f6d2f696d616765732f6c79636865652f312e6a706567)
+
+![](https://camo.githubusercontent.com/5484591f0b15b6ba27d4845b292cc5d3a988b3b9/68747470733a2f2f732e656c6563746572696f75732e636f6d2f696d616765732f6c79636865652f322e6a706567)
+
+
+
 - [Mediagoblin](http://mediagoblin.org) - Free software media publishing platform that anyone can run. You can think of it as a decentralized alternative to Flickr, YouTube, SoundCloud, etc. ([Source Code](https://savannah.gnu.org/projects/mediagoblin)) `AGPL-3.0` `Python`
+Not clear. 
+
 - [OwnPhotos](https://github.com/hooram/ownphotos) - Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. `MIT` `Python`
+![](https://raw.githubusercontent.com/hooram/ownphotos/dev/screenshots/Screenshot_2018-11-27_14-56-21.png)
+![](https://raw.githubusercontent.com/hooram/ownphotos/dev/screenshots/Screenshot_2018-11-27_14-56-21.png)
+![](https://raw.githubusercontent.com/hooram/ownphotos/dev/screenshots/Screenshot_2018-11-27_14-57-50.png)
+![](https://raw.githubusercontent.com/hooram/ownphotos/dev/screenshots/Screenshot_2018-11-27_15-01-49.png)
+
 - [Photato](https://github.com/trebonius0/Photato) - Self-hosted photo gallery, accessible through a responsive WebUI. Directly uses and indexes a specific folder in the filesystem. `AGPL-3.0` `Java`
 - [Photofloat](http://blog.zx2c4.com/567) - Web 2.0 Photo Gallery Done Right via Static JSON and Dynamic Javascript. ([Demo](http://photos.jasondonenfeld.com/)) `GPL-2.0` `Python`
 - [PhotoLight](https://github.com/thibaud-rohmer/PhotoLight) - The easiest photo gallery there is. `GPL-3.0` `PHP`
